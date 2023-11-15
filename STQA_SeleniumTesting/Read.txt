@@ -1,5 +1,5 @@
 Prerequisites: Chrome, Python (pip installed).
-
+This testing is done on https://github.com/OlayinkaAtobiloye/Tweeter clone.
 Download Selenium Web driver in your system
 
 (windows)
