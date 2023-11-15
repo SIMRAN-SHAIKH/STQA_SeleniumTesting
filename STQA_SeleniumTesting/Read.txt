@@ -1,0 +1,20 @@
+Prerequisites: Chrome, Python (pip installed).
+
+Download Selenium Web driver in your system
+
+(windows)
+
+>pip install selenium
+
+>pip install webdriver_manager
+
+(Linux, Mac)
+
+>pip3 install seleniuim
+
+>pip3 install webdriver_manager
+
+
+
+Start running test cases after installation is complete.
+Mention mail ID and password in all test cases as mentioned.
