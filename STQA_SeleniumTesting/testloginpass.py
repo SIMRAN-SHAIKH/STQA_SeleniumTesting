@@ -6,6 +6,7 @@ driver= webdriver.Chrome(ChromeDriverManager().install())
 
 print("TestCase1.. Open Login Page\n")
 
+#This testing is done on https://github.com/OlayinkaAtobiloye/Tweeter Twitter Clone.
 driver.get('https://tweetercloneapp.netlify.app/signin')
 
 print('testcase1 run successfully!!\n')
